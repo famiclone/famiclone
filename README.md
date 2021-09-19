@@ -1,5 +1,4 @@
 ## Hi there 👋
-I'm working on my own [digital garden](https://garden.famiclone.ml) [[Github repo](https://github.com/famiclone/garden)] now.
 
 ### 🏡 Contacts
 - ✈️ [Telegram](https://t.me/famiclone)
